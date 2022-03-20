@@ -1,0 +1,41 @@
+[
+  {
+    "supplierId": 78,
+    "supplierName": "Sup-A",
+    "itemCount": 3,
+    "totalAmount": 8760,
+    "totalQuantity": 24,
+    "itemList": [
+      {
+        "itemId": 195,
+        "itemName": "Pen Drive 4 GB Transcent",
+        "uomId": 18,
+        "uomName": "PCS",
+        "quantity": 12,
+        "itemTypeId": 1,
+        "warehouseId": 45,
+        "warehouseName": "ibos Office"
+      },
+      {
+        "itemId": 217,
+        "itemName": "Headphone",
+        "uomId": 18,
+        "uomName": "PCS",
+        "quantity": 6,
+        "itemTypeId": 1,
+        "warehouseId": 45,
+        "warehouseName": "ibos Office"
+      },
+      {
+        "itemId": 221,
+        "itemName": "vanila",
+        "uomId": 1,
+        "uomName": "KG",
+        "quantity": 6,
+        "itemTypeId": 2,
+        "warehouseId": 45,
+        "warehouseName": "ibos Office"
+      }
+    ]
+  }
+]

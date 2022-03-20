@@ -1,0 +1,53 @@
+[
+  {
+    "index": 1,
+    "supplierId": 78,
+    "supplierName": "Sup-A",
+    "itemCount": 3,
+    "totalAmount": 8760,
+    "totalQuantity": 24,
+    "rowSize": 3,
+    "itemId": 195,
+    "itemName": "Pen Drive 4 GB Transcent",
+    "uomId": 18,
+    "uomName": "PCS",
+    "quantity": 12,
+    "itemTypeId": 1,
+    "warehouseId": 45,
+    "warehouseName": "ibos Office"
+  },
+  {
+    "index": "",
+    "supplierId": "",
+    "supplierName": "",
+    "itemCount": "",
+    "totalAmount": "",
+    "totalQuantity": "",
+    "rowSize": "",
+    "itemId": 217,
+    "itemName": "Headphone",
+    "uomId": 18,
+    "uomName": "PCS",
+    "quantity": 6,
+    "itemTypeId": 1,
+    "warehouseId": 45,
+    "warehouseName": "ibos Office"
+  },
+  {
+    "index": "",
+    "supplierId": "",
+    "supplierName": "",
+    "itemCount": "",
+    "totalAmount": "",
+    "totalQuantity": "",
+    "rowSize": "",
+    "itemId": 221,
+    "itemName": "vanila",
+    "uomId": 1,
+    "uomName": "KG",
+    "quantity": 6,
+    "itemTypeId": 2,
+    "warehouseId": 45,
+    "warehouseName": "ibos Office"
+  }
+]
